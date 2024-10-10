@@ -91,7 +91,7 @@ public class TeamTest {
         assertNotEquals(t1, t2);  
     }
 
-    // case 4 test (F,F)
+    // case 3 test (F,F)
     @Test
     public void testEqualsBothFieldsDifferent() {
         Team t1 = new Team("test-team1");
